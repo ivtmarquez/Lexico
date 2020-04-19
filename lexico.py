@@ -76,4 +76,6 @@ class Token(object):
 		
 #Hola Karen
 #Como has estado?
-#Tienes coronavirus?<
+#Tienes coronavirus?
+
+#No, no tengo
